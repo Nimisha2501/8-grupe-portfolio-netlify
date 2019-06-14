@@ -1,7 +1,6 @@
 body .btn {
 	color: #000;
-	text-decoration:none;
-
+	text-decoration:none;	
 	background-color: #ccc;
 	display: inline-block;
 	vertical-align: top;
@@ -10,6 +9,7 @@ body .btn {
 	border: 0;
 	box-shadow: none;
 	font-size: 16px;
+	text-transform: uppercase;
 }
 body .btn:hover {
 	background-color: #000;
